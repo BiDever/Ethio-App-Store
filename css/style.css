@@ -1,0 +1,56 @@
+
+    .all_apps{
+        
+        display:flex;
+        flex-wrap:wrap;
+        
+    }
+    .all_apps a{
+        text-decoration: none;
+    }
+    button{
+        margin: 15%;
+    }
+    
+    img{
+        width:100px;
+        margin:5px;
+    }
+    
+    h5{
+        width:95px;
+        border:1px solid white;
+        font-weight:bold;
+        color:blue;
+        margin:5px;
+        display:flex;
+        flex-wrap:wrap;
+        background: lightgray;
+    }
+    
+    .all_apps .app1 img:hover{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .all_apps .app2 img:hover{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .all_apps .app3 img:hover{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .all_apps .app4 img:hover{
+        width: 200px;
+        height: 200px;
+        
+    }
+    .all_apps .app5 img:hover{
+        width: 200px;
+        height: 200px;
+        
+    }
+    
